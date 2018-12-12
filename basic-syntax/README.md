@@ -1,2 +1,1 @@
-This folder includes the sample code to illustrate
-the basic syntax of the language.
+https://github.com/jon-perry/tseting#about-the-syntax
